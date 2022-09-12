@@ -1,6 +1,6 @@
 Hi! I'm Gustavo Brzezinski
 
-- 🔭 Currently working as Financial Solutions Intern at Ativa Investments.
+- 🔭 Currently working as Risk Intern at Mobilize Financial Services.
 - 🌱 Learning Python and very interested in Data Science and Machine Learning.
 
 <div align="center">
