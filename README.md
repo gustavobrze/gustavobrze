@@ -1,6 +1,6 @@
 Hi! I'm Gustavo Brzezinski
 
-- 🔭 Currently working as Risk Intern at Mobilize Financial Services.
+- 🔭 Currently working as Wealth Management Intern at Guide Investments.
 - 🌱 Learning Python and very interested in Data Science and Machine Learning.
 
 <div align="center">
