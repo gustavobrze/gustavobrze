@@ -1,7 +1,6 @@
 Hi! I'm Gustavo Brzezinski
 
-- 🔭 Currently working as Wealth Management Intern at Guide Investments.
-- 🌱 Learning Python and very interested in Data Science and Machine Learning.
+- 🔭 Currently working as Broker at Nimber Capita (Brazil).
 
 <div align="center">
   <a href="https://github.com/gustavobrze">
