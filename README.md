@@ -1,6 +1,6 @@
 Hi! I'm Gustavo Brzezinski
 
-- 🔭 Currently working as Broker at Nimber Capita (Brazil).
+- 🔭 Currently working as Broker at Nimber Capital (Brazil).
 
 <div align="center">
   <a href="https://github.com/gustavobrze">
